@@ -12,7 +12,14 @@ Remover uma tarefa;
 Marcar e desmarcar uma tarefa como concluída.
 
 
+## Funcionamento da Aplicação
 
-Funcionamento da Aplicação
+Imagem demonstrativa.
 
-![to.do](public/tela.svg)
+![Gif do Funcionamento da Aplicação](public/tela.png)
+
+## Recursos Extras Adicionados
+
+### 1. Responsividade
+
+A fim de praticar alguns conceitos adicionais do Desenvolvimento Front-End, adicionei também responsividade à aplicação.
